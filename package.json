@@ -1,0 +1,23 @@
+{
+  "name": "historyczny_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mw-/R.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mw-/R/issues"
+  },
+  "homepage": "https://github.com/mw-/R#readme",
+  "dependencies": {
+    "csv-parse": "^1.1.1",
+    "nightmare": "^2.5.1"
+  }
+}
